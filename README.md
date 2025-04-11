@@ -66,7 +66,7 @@ amazon-clone/
 ---
 
 ## 🔮 Future Improvements  
-- **Add JavaScript** for interactivity 🖱️  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **Add JavaScript** for interactivity 🖱️  
 - **Enhance mobile responsiveness** 📱  
 - **Implement real product data** 🛍️  
 - **Add login/signup functionality** 🔐  
