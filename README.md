@@ -37,9 +37,9 @@ This is a **responsive Amazon.com clone** built with **HTML & CSS**, mimicking t
 ---
 
 ## 🛠️ Technologies Used  
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5**  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3**  
-- ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white) **Font Awesome** (for icons)
+- **HTML5**  
+- **CSS3**  
+- **Font Awesome** (for icons)
 
 ---
 
