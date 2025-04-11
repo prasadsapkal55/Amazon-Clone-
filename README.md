@@ -67,7 +67,7 @@ amazon-clone/
 
 
 ## 📸 Screenshots  
-*(Add project screenshots here)*  
+
 
 ---
 
