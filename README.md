@@ -67,7 +67,7 @@ amazon-clone/
 
 
 ## 📸 Screenshots  
-
+(https://github.com/prasadsapkal55/Amazon-Clone-/blob/main/preview.jpg) 
 
 ---
 
