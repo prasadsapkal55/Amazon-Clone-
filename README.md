@@ -3,6 +3,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+> ⚠️ **DISCLAIMER:**  
+This project is a personal educational exercise. It is **not** affiliated with or endorsed by Amazon in any way. The purpose of this repository is solely for learning and practicing front-end development.
+
 ## 🌟 Overview  
 This is a **responsive Amazon.com clone** built with **HTML & CSS**, mimicking the core visual elements and layout of the Amazon e-commerce website. The project includes a **navigation bar, hero section, product grid, and footer**—all styled to resemble Amazon's distinctive design.  
 
